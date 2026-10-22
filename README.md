@@ -1,12 +1,17 @@
-# CoAP Lab Python
+# Báo cáo Thực hành Lập trình Python với Giao thức CoAP
 
-## Thong tin thuc hien
+## 1. Thông tin chung
 
-- Ho va ten: Nguyen Van A
-- Ma sinh vien: B23DCCN001
-- Mon hoc: IoT va ung dung
+| Họ và tên | Mã sinh viên |
+|---|---|
+| Phạm Văn Kiên | B23DCCN466 |
+| Lưu Đức Thành Đạt | B23DCCN130 |
 
-Thay doi hai gia tri trong `coap_client_bai1.py` truoc khi nop bai.
+| Môn học | Giao thức sử dụng |
+|---|---|
+| Internet of Things IoT | CoAP qua UDP localhost 5683 |
+
+Thông tin gửi ở Bài 1 có thể thay đổi trong `coap_client_bai1.py`.
 
 ## Moi truong
 
